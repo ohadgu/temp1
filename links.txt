@@ -1,0 +1,8 @@
+GitHub:
+https://github.com/iam-veeramalla/ultimate-devops-project-aws
+
+Terraform Docs:
+https://developer.hashicorp.com/terraform/docs
+
+Terraform AWS Provider:
+https://registry.terraform.io/providers/hashicorp/aws/latest/docs
